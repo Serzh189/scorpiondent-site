@@ -1,0 +1,1 @@
+{ "name": "scorpiondent-site", "version": "1.0.0", "private": true, "scripts": { "build": "mkdir -p dist && cp -r index.html media dist/" } }
